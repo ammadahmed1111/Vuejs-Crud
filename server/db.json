@@ -1,0 +1,72 @@
+{
+  "contacts": [
+    {
+      "id": "k1",
+      "name": "adams",
+      "company": "ford",
+      "email": "adam@gmail.com",
+      "title": "youtuber",
+      "mobile": 987654321,
+      "photo": "https://www.giftmugs.in/wp-content/uploads/2020/05/facial-hair-face-zendesk-clip-art-avatar.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "k2",
+      "name": "smith",
+      "company": "honda",
+      "email": "smithg@gmail.com",
+      "title": "freelancer",
+      "mobile": "45632178",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUBigqWCHI9tPHrDnwSB3pHchHQcVEceICkU3dBHp-vIJ_oHFPpP3ak_39LBU1I27cx0&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+      "id": "3",
+      "name": "robert",
+      "company": "nostalgic",
+      "email": "robert@gmail.com",
+      "title": "tiktoker",
+      "mobile": "9874569",
+      "photo": "https://www.jobz.pk/images/pics/2020-09/503889_1_81445.png",
+      "groupId": "1"
+    },
+    {
+      "id": "4",
+      "name": "fred",
+      "company": "toyota",
+      "email": "fred@gmail.com",
+      "title": "golddigger",
+      "mobile": "3215648",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYNJdHp5ubG8-YVhE9JIarcTIPHROv4rRw1knQs9YzHdYARd5Bx5DxI1FmVJzfORfqxUg&usqp=CAU",
+      "groupId": "1"
+    },
+    {
+      "name": "jhonson",
+      "photo": "https://www.goarabic.com/vm/wp-content/uploads/2019/05/dummy-profile-pic.jpg",
+      "email": "jhonson@gmail.com",
+      "mobile": 48875216,
+      "company": "Audi",
+      "title": "Receptionist",
+      "groupId": "2",
+      "id": "X95lifH"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "colleague"
+    },
+    {
+      "id": "2",
+      "name": "friend"
+    },
+    {
+      "id": "3",
+      "name": "family"
+    },
+    {
+      "id": "4",
+      "name": "service"
+    }
+  ]
+}
